@@ -2,6 +2,9 @@
 
 A Python implementation of the Seam Carving algorithm, the revolutionary content-aware image resizing technique used in Adobe Photoshop's "Content-Aware Scale" feature. This project demonstrates how images can be intelligently resized while preserving important visual content and semantic features.
 
+<img width="877" height="514" alt="Screenshot 2025-10-25 at 12 13 11" src="https://github.com/user-attachments/assets/cc516a60-2dac-4ae4-afd0-b90b61deec4c" />
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Algorithm Description](#algorithm-description)
